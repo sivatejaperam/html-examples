@@ -1,0 +1,23 @@
+.box1 {
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+}
+
+.box2 {
+    width: 200px;
+    height:200px;
+    background-color: burlywood;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: auto;
+}
